@@ -1,4 +1,4 @@
-# 
+# Nativo Cline extensiones. Con grafos de conocimiento y monitoreo de modelos — optimizado para el máximo rendimiento y eficiencia.
 
 
 
